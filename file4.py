@@ -45,6 +45,8 @@ number_two=int(input("enter number:\t"))
 total=number_one+number_two
 print("total sum is "+str(total))
 print("hello bikash in git hub")
+print("hello are u ok in github")
+
 
 
 
